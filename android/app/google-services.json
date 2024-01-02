@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621805483899",
+    "project_id": "rnticketapp",
+    "storage_bucket": "rnticketapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621805483899:android:44c7b45e20e4b7b7e5efde",
+        "android_client_info": {
+          "package_name": "br.com.servibrasil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC89WEDkymOhrWRjR70KZjKijQkAo7-t9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
