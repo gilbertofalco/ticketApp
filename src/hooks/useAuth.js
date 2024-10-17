@@ -34,7 +34,7 @@ export function useAuth() {
         }
       }
     } catch (error) {
-      console.error('Erro ao buscar informações do usuário:', error);
+      console.error('Erro ao buscar informaçõess:', error);
     }
   };
 
